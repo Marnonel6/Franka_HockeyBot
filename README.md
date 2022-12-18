@@ -1,10 +1,11 @@
 # ME495 Final Project: HockeyBot
 
-## Authors: 
-- **Ava Zahedi**
-- **Marthinius Nel**
+## Authors:
+- **Marthinius Nel** - Team Leader, Systems Integrator (Git), Trajectory calculations, Robot manipulation, and assisted on Computer vision.
 - **Ritika Ghosh**
+- **Ava Zahedi**
 - **Hanyin Yuan**
+
 
 ![grouppicture](https://user-images.githubusercontent.com/60728026/206877676-19116921-3ad7-4c1c-8c1e-c41048c0e0fe.jpeg)
 
