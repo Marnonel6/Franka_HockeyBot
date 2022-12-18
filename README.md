@@ -1,7 +1,8 @@
 # ME495 Final Project: HockeyBot
 
 ## Authors:
-- **Marthinus (Marno) Nel** - Team Leader, Systems Integrator (Git), Trajectory calculations, Robot manipulation, and assisted on Computer vision.
+- **Marthinus (Marno) Nel** 
+    - Team Leader, Systems Integrator (Git), Trajectory calculations, Robot manipulation, and assisted on Computer vision.
 - **Ritika Ghosh**
 - **Ava Zahedi**
 - **Hanyin Yuan**
